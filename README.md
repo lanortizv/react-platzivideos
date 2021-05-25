@@ -7,9 +7,9 @@ This is a portafolio project for React and frontend Skills
 
 ## Project Screen Shots
 
-![alt part 1](https://github.com/lanortizv/react-platzivideos/screenshots/screen1.png)
-![alt part 2](https://github.com/lanortizv/react-platzivideos/screenshots/screen2.png)
-![alt part 3](https://github.com/lanortizv/react-platzivideos/screenshots/screen3.png)
+![alt text](https://github.com/lanortizv/react-platzivideos/screenshots/screen1.png)
+![alt text](https://github.com/lanortizv/react-platzivideos/screenshots/screen2.png)
+![alt text](https://github.com/lanortizv/react-platzivideos/screenshots/screen3.png)
 
 
 ## Installation and Setup Instructions 
